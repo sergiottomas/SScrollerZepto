@@ -1,5 +1,5 @@
 # SScrollerZepto
-Adiciona scroll na página de forma simples usando a biblioteca do Zepto.
+Adiciona scroll que reconhece eventos de toque na página de forma simples usando a biblioteca do Zepto.
 
 Exemplo de uso
 
